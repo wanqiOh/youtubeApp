@@ -18,9 +18,9 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Interface
-![Home Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-10-06%20at%204.52.14%20PM.jpeg?alt=media&token=a8f39796-b3b8-4b87-9bfe-c7c5b0a03233)
-![Youtube Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-10-06%20at%204.52.14%20PM%20(1).jpeg?alt=media&token=3b48feeb-5911-4bcf-98ef-3703333e29ba)
-![Help Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-10-06%20at%204.52.14%20PM%20(1).jpeg?alt=media&token=3b48feeb-5911-4bcf-98ef-3703333e29ba)
+![Home Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Fhome.PNG?alt=media&token=75b0b846-b2f7-45f9-86b4-17adba635a72)
+![Youtube Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Fyoutube.PNG?alt=media&token=4f32b7a1-2cf5-4113-8594-aa395224e32f)
+![Help Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Fhelp.PNG?alt=media&token=016cd7f7-9007-4653-8bce-8b65244a513b)
 
 ## Learn More
 
