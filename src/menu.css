@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+ul li a{
+    text-decoration: none;
+}
+
+ul li a:hover{
+    text-decoration: underline;
+}
+
+.active{
+    text-decoration: underline;
+}
