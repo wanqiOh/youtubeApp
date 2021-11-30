@@ -20,9 +20,9 @@ Runs the app in the development mode.\
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ### Available APIs
-[POST Method API](http://localhost:8080/ids)
+[POST Method API] : http://localhost:8080/ids
 
-[GET Method API](http://localhost:8080/ids)
+[GET Method API] : http://localhost:8080/ids
 
 Test those APIs in the development mode.\
 Open [postman](https://www.postman.com/downloads/) to send request and get the respond through it.
