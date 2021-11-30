@@ -1,6 +1,6 @@
 # youtubeApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Express JS](https://expressjs.com/) as backend and [Create React App](https://github.com/facebook/create-react-app) as frontend.
 
 ## Getting Started
 
