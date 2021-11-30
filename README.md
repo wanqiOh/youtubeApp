@@ -10,9 +10,9 @@ This project is a frontend for a youtubeApp application. To get a local copy up 
 1. Softwares required:
    - [Visual Studio Code as IDE](https://code.visualstudio.com/download)
    - [Install Node.js as Javascript Engine](https://nodejs.org/en/download/)
-2. Run the comment of `npm install` to install those required packages that exist in the package.JSON
-3. Cloning an Existing Repository `git clone https://github.com/wanqiOh/youtubeApp.git`
-4. Open cmd > {file path} > `npm start`.
+2. Cloning an Existing Repository `git clone https://github.com/wanqiOh/youtubeApp.git`
+3. Open cmd > {file path} > Run the comment of `npm install` to install those required packages that exist in the package.JSON
+4. Run the `npm start` to start the whole project.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
